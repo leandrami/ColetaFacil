@@ -14,7 +14,9 @@ Facilitar o descarte correto de resíduos, promover sustentabilidade e impacto s
 - Informações sobre descarte correto
 
 ## Tecnologias
-- Em definição
-
+- Xamarin
+- C#
+- Visual Studio
+  
 ## Autora
 Leandra Michely
