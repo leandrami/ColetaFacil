@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ColetaFacil.bateriasPage">
+    <ContentPage.Content>
+        <StackLayout Margin="10">
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>LOJA COMPESA-AURORA
+                </Label>
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Rua da Aurora, 777 – Boa Vista – Recife
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>(81) 3326-8376
+
+                </Label>
+            </StackLayout>
+
+
+
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>LOJA COMPESA-BOA VIAGEM
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Av. Conselheiro Aguiar, 1472 loja 55 – Boa Viagem – Recife
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>Fone: (81) 3266-4873
+
+                </Label>
+            </StackLayout>
+
+
+
+
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>LOJA COMPESA-DOIS IRMÃOS
+                </Label>
+
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Praça Farias Neves, s/nº, Dois Irmãos.
+
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>(81) 3441-3158
+
+                </Label>
+            </StackLayout>
+
+
+            <!-- lado a lado
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Margin="5">Título</Label>
+                <Label Margin="5">Descrição</Label>
+            </StackLayout>-->
+
+
+
+
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ColetaFacil.OleoPage1">
+    <ContentPage.Content>
+        <StackLayout Margin="10">
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>ECODIGITAL
+
+                </Label>
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Rua da Alegria, 123 – Boa Vista Recife
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>3093-5382
+
+                </Label>
+            </StackLayout>
+
+
+
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>Centro Marista Circuito Jovem
+
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Av. da Recuperação, 318 Santo Amaro, Recife
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>(81) 3441-1428
+
+                </Label>
+            </StackLayout>
+
+
+
+
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>HIPER BOMPREÇO – OLINDA
+                </Label>
+
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Avenida Governador Carlos De Lima Cavalcanti, 1306 Olinda -PE
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>0800 705 5050
+                </Label>
+            </StackLayout>
+
+
+            <!-- lado a lado
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Margin="5">Título</Label>
+                <Label Margin="5">Descrição</Label>
+            </StackLayout>-->
+
+
+
+
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

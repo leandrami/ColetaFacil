@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ColetaFacil.MainPage"
+              BackgroundColor="#8ac545">
+    <ContentPage.Content>
+        <StackLayout>
+           
+            <ScrollView>
+                <StackLayout VerticalOptions="Center" Margin="20" >
+
+                    <Button  Image="vidro.png" Text="Vidro" Clicked="BtVidro_Clicked"  ></Button>
+                    <Button Image="bateria.png"  Text="Bateria" Clicked="BtBateria_Clicked" ></Button>
+
+                    <Button Image="eletronicos.png"  Text="Eltrônicos" Clicked="BtEletronicos_Clicked" ></Button>
+                    <Button  Image="oleo.png" Text="Oleo" Clicked="BtOleo_Clicked"></Button>
+
+
+                    <Button Image="doacao.png"  Text="Seja doador" Clicked="Btfornecedor_Clicked"></Button>
+
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ColetaFacil.EletronicosPage">
+    <ContentPage.Content>
+        <StackLayout Margin="10">
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>Asa Comércio e Indústria
+
+                </Label>
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Rua da Paz, 82, Afogados, Recife-PE
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>3073-5057 / 3073-5066
+
+
+                </Label>
+            </StackLayout>
+
+
+
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>Associação Meio Ambiente, Preservar e Educar (Amape)
+
+
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Estrada do Arraial, s/n (em frente ao 4484), Casa Amarela, Recife-PE
+
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>3268-7984
+
+
+                </Label>
+            </StackLayout>
+
+
+
+
+            <StackLayout Margin="5" Padding="10">
+                <Label FontAttributes="Bold">Empresa
+                </Label>
+                <Label>Bumerangue Reciclagem
+
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Endereço</Label>
+                <Label>Rua Itaituba, s/n, entre os lotes 7 e 8, Jardim Prazeres, Jaboatão dos Guararapes-PE
+
+                </Label>
+
+
+                <Label FontAttributes="Bold">Telefone</Label>
+                <Label>3479-2677 / 3071-2476 / 8866-7120
+
+
+                </Label>
+            </StackLayout>
+
+
+            <!-- lado a lado
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Margin="5">Título</Label>
+                <Label Margin="5">Descrição</Label>
+            </StackLayout>-->
+
+
+
+
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ColetaFacil.ProdutosPage">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Image Source="coleta1.jpg"></Image>
+            <Label Text="Nome"></Label>
+            <Entry x:Name="etName"></Entry>
+            <Label Text="Telefone"></Label>
+            <Entry x:Name="etTelefone"></Entry>
+            <Button Text="Enviar"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
