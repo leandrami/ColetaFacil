@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# Xamarin extras
+*.apk
+*.aab
+*.keystore
+*.jks
+*.ipa
+*.app
+*.dSYM/
+*.xcarchive
